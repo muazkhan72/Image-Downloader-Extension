@@ -32,7 +32,7 @@ All processing happens locally in your browser. No accounts, no servers, no data
 **Option B — Clone with Git**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/image-downloader-extension.git
+git clone https://github.com/muazkhan72/Image-Downloader-Extension
 cd image-downloader-extension
 ```
 
